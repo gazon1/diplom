@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{hu-2008-collab-filter}
+Yifan Hu, Yehuda Koren, and Chris Volinsky.
+\newblock Collaborative filtering for implicit feedback datasets.
+\newblock In {\em 2008 Eighth IEEE International Conference on Data Mining},
+  page nil, 12 2008.
+
+\bibitem{fi2020predict}
+Andrea Fiandro, Giorgio Crepaldi, Diego Monti, Giuseppe Rizzo, and Maurizio
+  Morisio.
+\newblock Predict your click-out: Modeling user-item interactions and session
+  actions in an ensemble learning fashion, 2020.
+
+\bibitem{smith2015cyclical}
+Leslie~N. Smith.
+\newblock Cyclical learning rates for training neural networks, 2015.
+
+\bibitem{Isinkaye_2015}
+F.O. Isinkaye, Y.O. Folajimi, and B.A. Ojokoh.
+\newblock Recommendation systems: Principles, methods and evaluation.
+\newblock {\em Egyptian Informatics Journal}, 16(3):261–273, Nov 2015.
+
+\bibitem{Jallouli_2017}
+Maryam Jallouli, Sonia Lajmi, and Ikram Amous.
+\newblock Designing recommender system: Conceptual framework and practical
+  implementation.
+\newblock {\em Procedia Computer Science}, 112:1701–1710, 2017.
+
+\bibitem{Jannach_2016}
+Dietmar Jannach, Paul Resnick, Alexander Tuzhilin, and Markus Zanker.
+\newblock Recommender systems---.
+\newblock {\em Communications of the ACM}, 59(11):94–102, Oct 2016.
+
+\bibitem{Pathak_2010}
+Bhavik Pathak, Robert Garfinkel, Ram~D. Gopal, Rajkumar Venkatesan, and Fang
+  Yin.
+\newblock Empirical analysis of the impact of recommender systems on sales.
+\newblock {\em Journal of Management Information Systems}, 27(2):159–188, Oct
+  2010.
+
+\bibitem{10.7838/JSEBS.2012.17.3.085}
+최재원 and 이홍주.
+\newblock 개인화 추천시스템의 사용자 평가에 대한 통합적
+  접근 : 시스템 성과와 사용자 태도를 기반으로.
+\newblock {\em 한국전자거래학회지}, 17(3):85--103, 08 2012.
+
+\bibitem{Son_2015}
+Jieun Son, Seoung~Bum Kim, Hyunjoong Kim, and Sungzoon Cho.
+\newblock Review and analysis of recommender systems.
+\newblock {\em Journal of Korean Institute of Industrial Engineers},
+  41(2):185–208, Apr 2015.
+
+\bibitem{monti-2018-ensem-approac}
+Diego Monti, Enrico Palumbo, Giuseppe Rizzo, Pasquale Lisena, Rapha{\"e}l
+  Troncy, Michael Fell, Elena Cabrio, and Maurizio Morisio.
+\newblock An ensemble approach of recurrent neural networks using pre-trained
+  embeddings for playlist completion.
+\newblock In {\em Proceedings of the ACM Recommender Systems Challenge 2018 on
+  - RecSys Challenge '18}, page nil, - 2018.
+
+\end{thebibliography}
